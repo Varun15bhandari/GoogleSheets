@@ -4,14 +4,14 @@
    #Project Creation Steps
 
 
-    npx create-react-app myapp
-    cd myapp
+    npx create-react-app mydata
+    cd mydata
     npm install web-vitals
     npm start
     
    #Command Breakdown#
    
-    npx create-react-app myapp
+    npx create-react-app mydata
 
  1 Creates new React application
  2 Uses Create React App template
@@ -19,7 +19,7 @@
  4 Installs default React dependencies
  5 Project folder name: myapp
 
-    cd myapp
+    cd mydata
 
  1 Changes directory into newly created project folder
  2 Moves terminal context to project root
